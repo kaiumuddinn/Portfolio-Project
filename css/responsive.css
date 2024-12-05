@@ -1,0 +1,41 @@
+@media (max-width: 767px){
+    #banner .contains h1{
+        font-size: 40px;
+    }
+    #banner .contains .box{
+        margin: 20px 0;
+    }
+    #banner .about{
+        padding: 0;
+    }
+    #work .test:nth-child(1){
+        margin-top: 40px;
+    }
+    #work .test:nth-child(3){
+        margin-top: 0;
+    }
+    #work .test:nth-child(2){
+        margin-bottom: 20px;
+    }
+    #blog .blog_card img{
+        width: 100%;
+    }
+    #testimonial{
+        padding-bottom: 0;
+    }
+    #form .left .Card{
+        width: 100%;
+    }
+    #form .left .social_icons{
+        width: 100%;
+    }
+    #form{
+        position: static;
+    }
+    #form .container{
+        padding: 0;
+    }
+    #form .right form .budget, #form .right form .subject{
+        width: 100%;
+    }
+}
